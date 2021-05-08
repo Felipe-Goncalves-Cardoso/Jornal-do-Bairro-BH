@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(102, 101, 101);
+}
+h2 a{
+    color: rgb(196, 38, 38);
+ 
+}
+#armas{
+    width: 400px;
+    float: left;
+}
+#vacinas{
+    width: 400px;
+    float: left;
+}
+h2:hover{
+ color: rgb(92, 113, 233);
+ cursor: pointer;
+}
+h2:active{
+    color: red;
+}
+h1{
+    text-align: center;
+    color: saddlebrown;
+}

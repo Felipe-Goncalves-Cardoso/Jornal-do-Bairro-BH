@@ -1,0 +1,22 @@
+body{
+
+    background-color: rgb(102, 101, 101);
+}
+h2{
+    color: rgb(196, 38, 38);
+}
+h2:hover{
+    color: rgb(92, 113, 233);
+    cursor: pointer;
+   }
+   h2:active{
+    color: red;
+}
+#aulas{
+   width: 400px;
+    float: left;
+}
+#variante{
+    width: 404px;
+    float: left;
+}
